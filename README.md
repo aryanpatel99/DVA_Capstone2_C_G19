@@ -328,7 +328,7 @@ Together, the Python analysis and Tableau dashboards provide a complete decision
 | **Pratyush Chouksey** |                    |                |                |                      |                   | Owner/Support  | Owner/Support |
 | **Garv Verma**        |                    |                |                |                      |                   |                |            |
 | **Puneet Takhar**     |                    |                |                |                      |                   |                |            |
-| **Tathagat Harsh**    |                    |                |                |                      |                   |                |            |
+| **Tathagat Harsh**    | Owner/Support |  Owner/Support |   Support  |                     |                   |                |            |
 
 **Team Lead:** Ayush Aryan  
 **Date:** April 2026
